@@ -1,0 +1,3 @@
+domain_path: C:\Users\Admin\Desktop\ANUL3_SEM1\SSC_Proiect\platforma_vitis\platforma\export\platforma\sw\standalone_ps7_cortexa9_0
+app_src_dir: D:\InstalareVivado\Vitis\2024.1\data\embeddedsw\lib\sw_apps\hello_world
+template: hello_world

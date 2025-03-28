@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Dec 11 12:40:04 2024
+# Process ID: 5332
+# Current directory: C:/Users/Admin/Desktop/ANUL3_SEM1/SSC_Proiect/keypad/keypad.runs/synth_1
+# Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: C:/Users/Admin/Desktop/ANUL3_SEM1/SSC_Proiect/keypad/keypad.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/Users/Admin/Desktop/ANUL3_SEM1/SSC_Proiect/keypad/keypad.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-5CGGKC7
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+# CPU Frequency     :1498 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16852 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19402 MB
+# Available Virtual :4515 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
